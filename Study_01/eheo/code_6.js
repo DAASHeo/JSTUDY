@@ -3,7 +3,7 @@ var max = 0;
 var min = arr[0];
 
 function getMinMax(arr, max, min) {
-  for (let i = 0; i <= arr.length; i++) {
+  for (let i = 0; i < arr.length; i++) {
     if (arr[i] >= max) {
       max = arr[i];
     }
