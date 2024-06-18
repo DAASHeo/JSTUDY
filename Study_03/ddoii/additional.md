@@ -149,4 +149,4 @@
     - A) 10
     - B) 20
     - C) undefined
-    - D) ReferenceError
+    - D) ReferenceError ✅
