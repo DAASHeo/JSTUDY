@@ -11,7 +11,7 @@
    console.log(foo);
    ```
 
-   - A) 2, 1
+   - A) 2, 1 ✅
    - B) 1, 2
    - C) ReferenceError, 1
    - D) 2, 2
@@ -28,7 +28,7 @@
    ```
 
    - A) 10, 20
-   - B) 20, 10
+   - B) 20, 10 ✅
    - C) 20, 20
    - D) 10, 10
 
@@ -44,7 +44,7 @@
    ```
 
    - A) 1, 1
-   - B) 2, 2
+   - B) 2, 2 ✅
    - C) 1, 2
    - D) ReferenceError, 1
 
@@ -59,7 +59,7 @@
    ```
 
    - A) 1
-   - B) undefined
+   - B) undefined ✅
    - C) ReferenceError
    - D) null
 
@@ -71,7 +71,7 @@
    console.log(arr);
    ```
 
-   - A) [1, 2, 3, 4]
+   - A) [1, 2, 3, 4] ✅
    - B) [1, 2, 3]
    - C) TypeError
    - D) undefined
@@ -84,7 +84,7 @@
    console.log(obj);
    ```
 
-   - A) { a: 1, b: 2 }
+   - A) { a: 1, b: 2 } ✅
    - B) { a: 1 }
    - C) TypeError
    - D) undefined
@@ -104,7 +104,7 @@
    console.log(a);
    ```
 
-   - A) 30, 20, 10
+   - A) 30, 20, 10 ✅
    - B) 10, 20, 30
    - C) 30, 30, 30
    - D) 10, 10, 10
@@ -118,7 +118,7 @@
    console.log(a);
    ```
 
-   - A) 1
+   - A) 1 ✅
    - B) 2
    - C) TypeError
    - D) ReferenceError
@@ -133,7 +133,7 @@
    ```
 
    - A) 1, 2
-   - B) 2, 1
+   - B) 2, 1 ✅
    - C) undefined
    - D) TypeError
 
@@ -148,5 +148,5 @@
     ```
     - A) 10
     - B) 20
-    - C) undefined
+    - C) undefined ✅
     - D) ReferenceError
