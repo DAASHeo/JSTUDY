@@ -118,9 +118,9 @@
    console.log(a);
    ```
 
-   - A) 1 ✅
+   - A) 1
    - B) 2
-   - C) TypeError
+   - C) TypeError ✅
    - D) ReferenceError
 
 9. **다음 코드의 실행 결과는?**
@@ -148,5 +148,5 @@
     ```
     - A) 10
     - B) 20
-    - C) undefined ✅
+    - C) undefined
     - D) ReferenceError
